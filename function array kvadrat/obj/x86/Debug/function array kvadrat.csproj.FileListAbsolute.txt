@@ -1,0 +1,5 @@
+C:\Users\Tester Sveta\documents\visual studio 2010\Projects\function array kvadrat\function array kvadrat\bin\Debug\function array kvadrat.exe
+C:\Users\Tester Sveta\documents\visual studio 2010\Projects\function array kvadrat\function array kvadrat\bin\Debug\function array kvadrat.pdb
+C:\Users\Tester Sveta\documents\visual studio 2010\Projects\function array kvadrat\function array kvadrat\obj\x86\Debug\function array kvadrat.csprojResolveAssemblyReference.cache
+C:\Users\Tester Sveta\documents\visual studio 2010\Projects\function array kvadrat\function array kvadrat\obj\x86\Debug\function array kvadrat.exe
+C:\Users\Tester Sveta\documents\visual studio 2010\Projects\function array kvadrat\function array kvadrat\obj\x86\Debug\function array kvadrat.pdb
